@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @IbrahimSkyblock
-- 👀 I’m interested in coding hypixel skyblock mods.
-- 🌱 I’m currently learning write scripts and improve my coding skills.
-- 📫 You can reach me on discord, my name is triggeredxd
-- 
+Ibrahim
